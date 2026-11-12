@@ -1,3 +1,6 @@
+作者频道：https://www.youtube.com/@SHITOUGE
+- TG 粉丝交流群：https://t.me/ROTOGE
+---
 CFAPEX 1.3 更新日志
 
 更新范围：自定义优选 IP 支持一次保存 1000 条、GitHub Raw 列表拉取超时修复之后的改动。 
